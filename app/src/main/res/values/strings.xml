@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_lugar_nacimiento">Lugar de nacimiento</string>
+    <string name="txt_notas">Escirba algún comentario</string>
+    <string name="confirmar_informacion">Confirmar Informacion</string>
+</resources>
